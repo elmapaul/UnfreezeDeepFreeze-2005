@@ -8,8 +8,8 @@
 #include <fstream>
 using namespace std;
 
-const char* help="\n.::[ ANTI-C4 ZeRo Release ]::.\n\
-Paul Elmachidis (C) All rights reserved 2005\n\
+const char* help="\n.::[ UnfreezeDeepFreeze ZeRo Release ]::.\n\
+Paul Elmatsidis (C) All rights reserved 2005\n\
 This utility supplied as FREEWARE.Feel free to use and distribute it.\
 \nHave a nice hack!\n\n\
 Remember: The goal of this program is changing the state of DeepFreeze(Vers.5)\nor(perhaps better)\
