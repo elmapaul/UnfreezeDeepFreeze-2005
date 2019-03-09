@@ -12,6 +12,6 @@ My real use case that I had at I.E.K. Technical school:
 
 Files:
 + Source code in C++
-+ System file where stores the hidden password
++ System file where stores the hidden password (just for example)
 
 P.S. All these actions were made ONLY for research purposes.
